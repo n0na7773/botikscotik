@@ -1,6 +1,6 @@
 import config
-import telebot
 import time
+import telebot
 
 bot = telebot.TeleBot(config.token)
 
